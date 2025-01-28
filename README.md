@@ -1,7 +1,7 @@
 # Hi there, I'm Corin Jazmin Viracacha 👋
 
 ## About Me
-- 🔭 Actualmente trabajo como desarrolladora Backend JAVA
+- 🔭 Desarrolladora backend con sólida experiencia en la creación, mantenimiento y optimización de aplicaciones escalables utilizando Java, Angular, PostgreSQL (PGSQL) y SQL Server. Busco ofrecer soluciones eficientes y de alto rendimiento a las empresas. 
 - 🌱 Me gusta aprender y conocer de nuevas tecnologías y herramientas
 
 ## GitHub Stats
